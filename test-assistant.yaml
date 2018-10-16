@@ -1,0 +1,11 @@
+version: 4
+meta:
+  description: adsfasdfsadfasf
+concepts:
+  - name: ':Showable'
+  - name: ':Z'
+    ontology:
+      subClassOf: ':Showable'
+  - name: ':Y'
+    ontology:
+      subClassOf: ':Showable'
